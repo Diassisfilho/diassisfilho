@@ -2,13 +2,13 @@
 <h3 align="center">Um programador acima de tudo buscando saber mais coisas e ajudar os leigos/iniciantes de alguma forma.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diassisfilho" alt="diassisfilho" /> </p>
 
-- 🔭 Atualmente estou somente estudando qualquer coisa aleatória que me vem a mente e com prioridade no que o mercado demanda.
+- 🔭 Atualmente estou somente estudando qualquer coisa aleatória que me vem a mente e com prioridade no que o mercado de trabalho demanda.
 
 - 👨‍💻 algumas das coisas que desenvolvi estão aqui no github, dê uma olhada depois.
 
 - 💬 Se tiver alguma duvida sobre **python3**, **sistemas operacionais**, **linux**, **redes (especialmente óptica)**, **sistemas microcontrolados** e **emuladores** chega ai no meu [instagram](https://instagram.com/deassisfilhu) ou [linkedin](https://www.linkedin.com/in/de-assis-filho-88ba651a3).
 
-- 😅 Não interajo muito aqui mas sempre estou pesquisando coisas novas 
+- 😅 Não interajo muito aqui mas sempre estou pesquisando coisas novas.
 
 
 <br />
